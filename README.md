@@ -40,7 +40,12 @@ When going through the promps, type in the same information you would as if you 
 ![Screenshot 2023-08-17 073555](https://github.com/saevans86/README-Generator/assets/130856120/186b7d7f-5593-4ed5-b007-d904f7d49256)
 ![Screenshot 2023-08-17 073821](https://github.com/saevans86/README-Generator/assets/130856120/b77e6363-aceb-4ae6-8d22-9c11586bc418)
 
-    [screencasify vid.webm](https://github.com/saevans86/README-Generator/assets/130856120/52a995f2-d397-4382-b2b4-0234e5629b2f)
+
+https://github.com/saevans86/README-Generator/assets/130856120/722bbd28-f609-4e17-9347-6baa183335fd
+
+
+
+
 
 
 ## Credits 
