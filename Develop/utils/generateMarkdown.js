@@ -9,7 +9,7 @@ function renderLicenseBadge(licenseBadge) {
   } else if (licenseBadge === "MIT") {
     return "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)";
   } else if (licenseBadge === "Apache-2.0") {
-    return "![License: Apache-2.0 (https://img.shields.io/badge/License-Apache_2.0-blue.svg)";
+    return "![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)";
   }
 }
 // TODO: Create a function that returns the license link
@@ -22,7 +22,7 @@ function renderLicenseLink(licenseLink) {
   } else if (licenseLink === "MIT") {
     return "[license: MIT](https://opensource.org/licenses/MIT)";
   } else if (licenseLink === "Apache-2.0") {
-    return "[license: Apache-2.0] (https://www.gnu.org/licenses/gpl-3.0)";
+    return "[license: Apache-2.0](https://www.gnu.org/licenses/gpl-3.0)";
   }
 }
 
@@ -40,7 +40,7 @@ function generateMarkdown(data) {
     } else if (licenseSection === "GPL v3.0") {
       return `
   
-  # ${data.title} ${data.oneLine} 
+  ${data.title} ${data.oneLine + "\r"} 
   Copyright (C) ${data.year} ${data.yourName}
   
   This program is free software: you can redistribute it and/or modify

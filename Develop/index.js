@@ -73,9 +73,10 @@ async function writeToFile() {
     const userResponse = generateMarkdown(questions);
     fs.writeFileSync("NEWREADME.md", userResponse);
 
-    console.log("You did it Bestie!");
+    console.log("\x1b[32m", "File generated!");
+    console.log("\x1b[33m", "Be sure to change the file name so github recognizes it as a README.md FILE");
   } catch (error) {
-    console.error("No sorry :(", error);
+    console.error("\x1b[31m", "Error occured. WHAT DID YOU DO?!! >:[", error);
   }
 }
 //  TODO: Create a function to initialize app
