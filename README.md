@@ -40,7 +40,8 @@ When going through the promps, type in the same information you would as if you 
 ![Screenshot 2023-08-17 073555](https://github.com/saevans86/README-Generator/assets/130856120/186b7d7f-5593-4ed5-b007-d904f7d49256)
 ![Screenshot 2023-08-17 073821](https://github.com/saevans86/README-Generator/assets/130856120/b77e6363-aceb-4ae6-8d22-9c11586bc418)
 
-    
+    [screencasify vid.webm](https://github.com/saevans86/README-Generator/assets/130856120/52a995f2-d397-4382-b2b4-0234e5629b2f)
+
 
 ## Credits 
 I used stackexchange, and the u of u gitlab, as well as references in GITHUB to licensing, and their individual websites as well as the bootcamp docs from the nodejs module. 
@@ -88,7 +89,7 @@ The project features are currently only using 3 different types of licenses whic
 
 
 ## Tests 
-No tests have currently been performed, however I will be running through this multiple times to make sure that each of the badges/links/license descriptions display name/date correcty.
+No tests have currently been performed, however I will be running through this multiple times to make sure that each of the badges/links/license descriptions display name/date correcty. (Confirmed working correctly for each license)
 
 
 
