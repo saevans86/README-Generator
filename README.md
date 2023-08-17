@@ -38,6 +38,7 @@ When going through the promps, type in the same information you would as if you 
 
 
 ![Screenshot 2023-08-17 073555](https://github.com/saevans86/README-Generator/assets/130856120/186b7d7f-5593-4ed5-b007-d904f7d49256)
+![Screenshot 2023-08-17 073821](https://github.com/saevans86/README-Generator/assets/130856120/b77e6363-aceb-4ae6-8d22-9c11586bc418)
 
     
 
@@ -48,7 +49,7 @@ I used stackexchange, and the u of u gitlab, as well as references in GITHUB to 
 
 ## License 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Screenshot 2023-08-17 073821](https://github.com/saevans86/README-Generator/assets/130856120/b77e6363-aceb-4ae6-8d22-9c11586bc418)
+
 
 ## License Link 
 [license: MIT](https://opensource.org/licenses/MIT)
